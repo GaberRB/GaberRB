@@ -13,5 +13,5 @@
 
 - ⚡ Fun fact: I hate churros and love documents about the creation of the universe and its infinite
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=GaberRB&show_icons=true" alt="maykbrito" /> </p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=GaberRB&show_icons=true" /> </p>
 
