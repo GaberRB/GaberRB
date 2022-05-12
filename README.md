@@ -1,5 +1,12 @@
 ### Hi there , I'm Gabriel👋
 
+<div>
+<a href="https://github.com/GaberRB">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaberRB&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaberRB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 - 🤖 I'm a Software Engineer
 
 - 🔭 I’m currently working on   <a href="https://www.itau.com.br//" target="blank">Itaú Bank</a> 
