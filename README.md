@@ -23,9 +23,6 @@
 
 - ⚡ Fun fact: I hate churros and love documents about the creation of the universe and its infinite
 
-
-
- <p><img src="https://github-readme-stats.vercel.app/api?username=GaberRB&show_icons=true" /> </p>
  
  ![Smiling-Leo-Perfect-GIF gifkeepProtocol](https://user-images.githubusercontent.com/28874479/125709455-0e1d8d51-098a-4f36-a5dc-25cfaeba6240.gif)
 
