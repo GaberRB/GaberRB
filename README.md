@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on   <a href="https://www.itau.com.br//" target="blank">Itaú Bank</a> 
 
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/java-duke-logo.png"/><a href="https://www.java.com/" target="blank">Java</a> with Spring Boot.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>.
 
 - 👯 I’m looking to collaborate on projects with these technologies
 
